@@ -6,3 +6,5 @@ Basically if in your enviroment you have some gases with this product you can "s
 To not hurt yourself and you health.
 
 BIG Disclaimer--> I am not fluent in english.Thanks "-"
+
+Este projeto utiliza partes do código da biblioteca Ucglib, criada por Oliver Kraus e licenciada sob a GNU General Public License v2.
