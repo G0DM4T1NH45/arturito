@@ -16,13 +16,13 @@ Este projeto utiliza partes do código da biblioteca Ucglib, criada por Oliver K
 
 Project components:
 
--Temperature and humidity sensor
--MQ9 gas sensor
--MQ135 air quality sensor
+-Temperature and humidity sensor.
+-MQ9 gas sensor.
+-MQ135 air quality sensor.
 -2.4 Inch TFT LCD Display->When i was connecting the display i have used https://github.com/ZPaulWeleschuk/Arduino-How-To-Guide-2.4-TFT-Display-ST7789 guide. And it has worked fine.
--Arduino
--Resistences(see display link)
--Cables for connecting the components
+-Arduino.
+-Resistences(see display link).
+-Cables for connecting the components.
 
 After connecting everything, came something like this.
 ![sensorsasdsdasd](https://github.com/user-attachments/assets/d16c477d-be46-429c-824f-b0553d707e05)
