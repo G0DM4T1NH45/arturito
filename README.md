@@ -1,4 +1,4 @@
-# arturito
+# arturito V1.1
 
 Humidity and atmospheric gas sensors
 
